@@ -1,0 +1,16 @@
+#content{
+  position: relative;
+  width:50%;
+  height: 50vh;
+  background-color: #454545;
+}
+#truc{
+position: absolute;
+top:50%;
+left:50%;
+background-color: #111);
+text-decoration: none;
+color:#fff;
+font-family: arial;
+font-size: 3rem;
+}
